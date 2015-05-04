@@ -1,0 +1,1 @@
+Dùng TortoiseSVN để quản lý version
